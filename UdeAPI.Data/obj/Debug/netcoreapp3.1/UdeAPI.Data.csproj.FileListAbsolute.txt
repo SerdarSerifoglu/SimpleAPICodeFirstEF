@@ -1,0 +1,13 @@
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Data.deps.json
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Data.runtimeconfig.json
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Data.runtimeconfig.dev.json
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Data.dll
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Data.pdb
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Core.dll
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\bin\Debug\netcoreapp3.1\UdeAPI.Core.pdb
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\obj\Debug\netcoreapp3.1\UdeAPI.Data.csprojAssemblyReference.cache
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\obj\Debug\netcoreapp3.1\UdeAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\obj\Debug\netcoreapp3.1\UdeAPI.Data.AssemblyInfo.cs
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\obj\Debug\netcoreapp3.1\UdeAPI.Data.csproj.CopyComplete
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\obj\Debug\netcoreapp3.1\UdeAPI.Data.dll
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Data\obj\Debug\netcoreapp3.1\UdeAPI.Data.pdb

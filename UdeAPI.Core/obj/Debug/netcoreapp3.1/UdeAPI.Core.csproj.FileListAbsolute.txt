@@ -1,0 +1,8 @@
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\bin\Debug\netcoreapp3.1\UdeAPI.Core.deps.json
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\bin\Debug\netcoreapp3.1\UdeAPI.Core.dll
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\bin\Debug\netcoreapp3.1\UdeAPI.Core.pdb
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\obj\Debug\netcoreapp3.1\UdeAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\obj\Debug\netcoreapp3.1\UdeAPI.Core.AssemblyInfo.cs
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\obj\Debug\netcoreapp3.1\UdeAPI.Core.dll
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\obj\Debug\netcoreapp3.1\UdeAPI.Core.pdb
+C:\Users\Serifoglu\source\repos\UdeAPI\UdeAPI.Core\obj\Debug\netcoreapp3.1\UdeAPI.Core.csprojAssemblyReference.cache
